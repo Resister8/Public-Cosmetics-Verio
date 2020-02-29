@@ -1,2 +1,1 @@
-{"uuid":"1f25527a-7582-4a54-a195-53468c9272df","username":null,"cosmetics":{"Faze":{"name":"Faze","type":"cape","scale":0.16,"active":true,"resourceLocation":https://i.imgur.com/ymKhrTv.png%22%7D,%22black%22:%7B%22name%22:%22black%22,%22type%22:%22dragon_wings%22,%22scale%22:0.16,%22active%22:true,%22resourceLocation%22:%22black%22%7D%7D%7D
-"}
+{"uuid":"1f25527a-7582-4a54-a195-53468c9272df","username":null,"cosmetics":{"Faze":{"name":"Faze","type":"cape","scale":0.16,"active":true,"resourceLocation":"https://i.imgur.com/ymKhrTv.png"},"black":{"name":"black","type":"dragon_wings","scale":0.16,"active":true,"resourceLocation":"black"}}}
